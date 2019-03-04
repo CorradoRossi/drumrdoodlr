@@ -1,2 +1,2 @@
 # drumrdoodlr
-A simple Javascript drum machine wrapped in electron
+A drum machine in the browser - lol
